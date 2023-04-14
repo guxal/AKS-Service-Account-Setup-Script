@@ -5,6 +5,10 @@ Este script automatiza la creación de una cuenta de servicio y un secreto asoci
 
 ChatGPT-4
 
+## Referencia:
+
+https://developercommunity.visualstudio.com/t/MS-DevOps-Environment--Cannot-Add-Resou/10154315
+
 
 ## input en CHATGPT:
 
